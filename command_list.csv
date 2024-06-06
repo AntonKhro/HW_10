@@ -5,8 +5,8 @@
     5  cd /d/ggg/
     6  git config --global user.name "Anton"
     7  git config --global user.email "khromov0401@gmail.com"
-    8  git clone https://github.com/AntonKhro/HW__10.git
-    9  cd /d/ggg/HW__10
+    8  git clone https://github.com/AntonKhro/HW_10.git
+    9  cd /d/ggg/HW_10
    10  touch text_ignore.txt
    11  nano .gitignore
    12  git status
